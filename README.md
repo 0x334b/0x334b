@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://github.com/0x334b](https://github.com/0x334b)
 
-- 💬 Ask me about **Python, C++, HTML**
+- 💬 Ask me about **Python, C++, HTML, CyberSecurity**
 
 - 📫 How to reach me **0334b@proton.me**
 
