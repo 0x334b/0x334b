@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, C++, HTML, CyberSecurity**
 
-- 📫 How to reach me **0334b@proton.me**
+- 📫 How to reach me **0x334b@proton.me**
 
 - 📄 Know about my experiences [https://github.com/0x334b](https://github.com/0x334b)
 
